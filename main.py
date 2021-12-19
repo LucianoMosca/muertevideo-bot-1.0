@@ -3,8 +3,8 @@ import praw
 reddit = praw.Reddit(
     client_id="************",
     client_secret="**************",
-    user_agent="<console:muertevideo:1.0>",
-    username="Muertevideo-bot",
+    user_agent="<********>",
+    username="*********",
     password="*************",
 )
 
